@@ -4,6 +4,8 @@ pipeline {
     stage('build') {
       steps {
         sh 'rf'
+        
+        //testing branchign straykjsia;[
       }
     }
   }
